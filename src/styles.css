@@ -1,0 +1,9 @@
+:root { font-family: Inter, system-ui, sans-serif; color: #172033; background: #f8fafc; }
+body { margin: 0; }
+main { max-width: 760px; margin: 0 auto; padding: 3rem 1.5rem; }
+a { color: #0f766e; }
+.grid { display: grid; gap: 1rem; margin-top: 2rem; }
+.card { display: block; padding: 1.25rem; border: 1px solid #cbd5e1; border-radius: 12px; background: white; text-decoration: none; }
+.card span { color: #475569; }
+blockquote { margin: 0 0 .75rem; font-size: 1.15rem; }
+.detail { margin-top: 2rem; font-size: 1.8rem; }
